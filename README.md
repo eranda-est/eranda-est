@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Eranda Liyanage</h1>
 <h3 align="center">Undergraduate in SLIIT @SriLanka</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21309724&label=Profile%20views&color=0e75b6&style=flat" alt="it21309724" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21309724" alt="it21309724" /></a> </p>
 
