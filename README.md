@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **erandaliyanage100@gmail.com**
 
+- 📄 Know about my experiences [ErandaLiyanage.pdf](ErandaLiyanage.pdf)
+
 - ⚡ Fun fact **I love to listening to music**
 
 <h3 align="left">Connect with me:</h3>
