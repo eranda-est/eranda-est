@@ -10,9 +10,11 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Software Engineering @SLIIT**
+- 🔭 I’m currently working on **Gamage Recruiters**
 
-- 💬 Ask me about **Android, MERN**
+- 🌱 I’m currently learning **Information Technology @SLIIT**
+
+- 💬 Ask me about **Android, MERN, Figma**
 
 - 📫 How to reach me **erandaliyanage100@gmail.com**
 
